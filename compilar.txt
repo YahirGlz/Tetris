@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 g++ -std=c++17 -Wall -Wextra -Wpedantic -Iinclude src/*.cpp -o bin/tetris
+=======
+g++ -std=c++17 -Wall -Wextra -Wpedantic -Iinclude source/*.cpp -o bin/Tetris.exe
+bin\Tetris.exe
+>>>>>>> Stashed changes
