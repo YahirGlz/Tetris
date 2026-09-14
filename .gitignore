@@ -1,0 +1,24 @@
+# Archivos de salida y carpetas de compilación
+bin/
+build/
+*.exe
+*.out
+*.app
+
+# Archivos objeto intermedios y librerías compiladas
+*.o
+*.obj
+*.a
+*.lib
+*.so
+*.dll
+
+# Archivos generados por IDEs / Editores
+.vscode/
+.vs/
+.idea/
+*.user
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
